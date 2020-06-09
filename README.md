@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -67,8 +66,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
-# monsters-rolodex
-Static React JS Website which includes; hovering component, search/filtering component, API calls etc.
-It's also hosted online at; https://okobz.github.io/monsters-rolodex/
->>>>>>> 7925eaa374cd9b95dabce568e075e461aa7baca9
